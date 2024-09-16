@@ -12,6 +12,7 @@ export default async function Home() {
         <Image
           className="relative"
           src="logo.svg"
+          alt="SNAKE Logo"
           width={40}
           height={40}
           priority

@@ -21,9 +21,8 @@
     "@types/react-dom": "18.2.18",
     "autoprefixer": "10.4.17",
     "cardano-koios-client": "^1.0.5",
-    "eslint": "9.0.0",
+    "eslint": "8.56.0",
     "fast-check": "^3.13.2",
-    "lru-cache": "^11.0.1",
     "lucid-cardano": "^0.10.7",
     "next": "^14.1.0",
     "postcss": "8.4.33",
@@ -34,6 +33,6 @@
   },
   "devDependencies": {
     "daisyui": "^4.6.1",
-    "eslint-config-next": "^14.2.11"
+    "eslint-config-next": "^14.1.0"
   }
 }
